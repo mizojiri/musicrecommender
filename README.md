@@ -11,3 +11,10 @@
 
 -k-means.py
 --k-means法による音楽推薦システムプログラム
+
+実行方法
+
+python k-means.py chart_ChristmasSongs_info.csv
+
+python Cuckoo.py chart_ChristmasSongs_info.csv
+
